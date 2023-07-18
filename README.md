@@ -4,7 +4,6 @@
 ### 프로젝트 기간
 2022.09 ~ 2022.12
 
-
 ### 팀 구성
 3인 1팀
 
@@ -29,3 +28,10 @@
 ## 결과 및 성과
 1. 기계학습 모델에 활용할 데이터를 구축을 위한 많은 시간 투자의 필요성 확인
 2. 프로젝트와 관련된 도메인의 중요성과 관련 Tool 활용 능력의 필요성 확인
+
+<br><br>
+
+
+
+![image](https://github.com/gangjoohyeong/Data-Science-Capston-Design/assets/93419379/4fb3624a-753c-4f5a-afd4-04bc02de809d)
+![image](https://github.com/gangjoohyeong/Data-Science-Capston-Design/assets/93419379/5e098502-14f5-4ee5-8abe-7263a66e677c)
